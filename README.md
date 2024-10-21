@@ -59,3 +59,8 @@ A comprehensive Jupyter Notebook report with visuals was created to display the 
 - **Category and Subcategory Performance** insights.
 - **Customer Segmentation** with insights into segment-wise revenue.
 - **Shipping Mode and Delivery Time Analysis**.
+
+  <img src= "https://github.com/VasanthM27/Sales-Growth-and-Product-Performance-Analysis/blob/main/folder/1.PNG" /></br>
+  <img src= "https://github.com/VasanthM27/Sales-Growth-and-Product-Performance-Analysis/blob/main/folder/2.PNG" /></br>
+  <img src= "https://github.com/VasanthM27/Sales-Growth-and-Product-Performance-Analysis/blob/main/folder/3.PNG" /></br>
+  <img src= "https://github.com/VasanthM27/Sales-Growth-and-Product-Performance-Analysis/blob/main/folder/4.PNG" /></br>
